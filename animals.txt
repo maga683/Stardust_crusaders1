@@ -1,4 +1,4 @@
-lion
-tiger
-leopard
-turtle
+lion yellow
+tiger orange
+leopard black
+turtle green
