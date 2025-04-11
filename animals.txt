@@ -1,4 +1,4 @@
-lion	marron
-tiger	verde
-leopard	purpura
-turtle	azul
+lion
+tiger
+leopard
+turtle
