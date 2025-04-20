@@ -1,4 +1,4 @@
-lion	marron
-tiger	azul
-leopard	purpura
-turtle	naranga
+lion yellow
+tiger orange
+leopard black
+turtle green
