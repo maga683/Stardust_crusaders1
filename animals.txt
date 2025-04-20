@@ -1,11 +1,4 @@
-Contributor A
 lion yellow
 tiger orange
 leopard black
 turtle green
-
-Contributor B
-lion	marron
-tiger	azul
-leopard	purpura
-turtle	naranga
